@@ -148,4 +148,16 @@
     color: #fff;
     font-size: 14px;
   }
+  .horizontal-scroll-section {
+    display: flex;
+    overflow-x: auto; /* Enable horizontal scrolling */
+    white-space: nowrap; /* Prevent line breaks for child elements */
+  }
+  
+  /* Optional: Adjust the styles of the child elements within the scrollable section */
+  .horizontal-scroll-section > div {
+    flex-shrink: 0; /* Prevent child elements from shrinking */
+    width: 200px; /* Set a fixed width for each child element */
+    margin-right: 10px; /* Add margin between child elements */
+  }
   

@@ -79,9 +79,14 @@ const HomePage = () => {
       <section className="contact-section">
         <h2 className="section-title">Contact Us</h2>
         <p className="contact-description">
+          PhoneNo: +251943205548
+       <br/>
+          Email: joshmanye@gmail.com
+        </p>
+        <p className="contact-description">
           We would love to hear from you. Get in touch with us to discuss your project or ask any questions.
         </p>
-        <button className="contact-button">Contact Now</button>
+       
       </section>
       <footer className="footer">
         <p className="footer-text">© 2022 JoshArchitectures. All rights reserved.</p>

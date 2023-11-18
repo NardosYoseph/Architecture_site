@@ -79,9 +79,9 @@ const HomePage = () => {
       <section className="contact-section">
         <h2 className="section-title">Contact Us</h2>
         <p className="contact-description">
-          PhoneNo  +251943205548
+          PhoneNo- +251943205548
        <br/>
-          Email  joshmanye@gmail.com
+          Email- joshmanye@gmail.com
         </p>
         <p className="contact-description">
           We would love to hear from you. Get in touch with us to discuss your project or ask any questions.
